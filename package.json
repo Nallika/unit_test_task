@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Unit testing task",
   "scripts": {
-    "test": "jest"
+    "test": "TZ=UTC-1 jest"
   },
   "devDependencies": {
     "jest": "^29.4.0"
